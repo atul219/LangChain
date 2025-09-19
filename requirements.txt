@@ -10,6 +10,7 @@ openai
 langchain-huggingface
 transformers
 huggingface-hub
+sentence-transformers
 
 python-dotenv
 numpy 
