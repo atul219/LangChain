@@ -38,6 +38,6 @@ Contains prompt templates and engineering examples for effective interaction wit
 atul219
 
 GitHub: @atul219
-🌟 Acknowledgments
+## 🙏 Acknowledgments
 Built with LangChain
 Focused on Generative AI applications
