@@ -39,5 +39,5 @@ atul219
 
 GitHub: @atul219
 ## 🙏 Acknowledgments
-Built with LangChain
-Focused on Generative AI applications
+- Built with LangChain
+- Focused on Generative AI applications
