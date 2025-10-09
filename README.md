@@ -35,10 +35,9 @@ Contains prompt templates and engineering examples for effective interaction wit
 
 
 ## 👤 Author
-atul219
 
-- GitHub: @atul219
+- GitHub: [@atul219](https://github.com/atul219)
 
 ## 🙏 Acknowledgments
-- Built with LangChain
+- Built with [LangChain](https://www.langchain.com/)
 - Focused on Generative AI applications
