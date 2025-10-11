@@ -13,6 +13,7 @@ LangChain/
 ├── .vscode/ # VS Code configuration files
 ├── Models/ # Language model implementations and configurations
 ├── Prompts/ # Prompt templates and examples
+├── StructuredOutput/ # Output examples
 ├── .gitignore # Git ignore rules
 ├── LICENSE # MIT License
 ├── README.md # Project documentation
@@ -32,6 +33,9 @@ The Model Component is a crucial part of the LangChain framework, designed to fa
 
 ## Prompts
 Contains prompt templates and engineering examples for effective interaction with language models.
+
+## Structured Output
+Contains Output examples (typed dict, pydantic, json) and engineering examples for effective interaction with language models.
 
 
 ## 👤 Author
