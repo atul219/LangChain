@@ -11,6 +11,7 @@ This repository demonstrates the implementation of LangChain components, focusin
 ```
 LangChain/
 ├── .vscode/ # VS Code configuration files
+├── Chains/ # Chain Examples
 ├── Models/ # Language model implementations and configurations
 ├── Prompts/ # Prompt templates and examples
 ├── StructuredOutput/ # Output examples
@@ -36,6 +37,9 @@ Contains prompt templates and engineering examples for effective interaction wit
 
 ## Structured Output
 Contains Output examples (typed dict, pydantic, json) and engineering examples for effective interaction with language models.
+
+## Structured Output
+Contains Chains examples (Simple, Sequential, Parallel, Conditional) and engineering examples for effective interaction with language models.
 
 
 ## 👤 Author
