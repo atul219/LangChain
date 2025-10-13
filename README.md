@@ -38,7 +38,7 @@ Contains prompt templates and engineering examples for effective interaction wit
 ## Structured Output
 Contains Output examples (typed dict, pydantic, json) and engineering examples for effective interaction with language models.
 
-## Structured Output
+## Chains
 Contains Chains examples (Simple, Sequential, Parallel, Conditional) and engineering examples for effective interaction with language models.
 
 
