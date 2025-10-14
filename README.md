@@ -12,9 +12,11 @@ This repository demonstrates the implementation of LangChain components, focusin
 LangChain/
 ├── .vscode/ # VS Code configuration files
 ├── Chains/ # Chain Examples
+├── DocumentLoader/ # Document Loader Examples
 ├── Models/ # Language model implementations and configurations
 ├── Prompts/ # Prompt templates and examples
 ├── StructuredOutput/ # Output examples
+├── TextSplitter/ # Text Splitter examples
 ├── .gitignore # Git ignore rules
 ├── LICENSE # MIT License
 ├── README.md # Project documentation
@@ -40,6 +42,12 @@ Contains Output examples (typed dict, pydantic, json) and engineering examples f
 
 ## Chains
 Contains Chains examples (Simple, Sequential, Parallel, Conditional) and engineering examples for effective interaction with language models.
+
+## Document Loader
+Contains Document Loader examples (text, pdf, csv, web) and engineering examples for effective interaction with language models.
+
+## Text Splitter
+Contains Text Splitter examples (Length, Text-Structure, Document-Structure, Semantic Meaning) and engineering examples for effective interaction with language models.
 
 
 ## 👤 Author
