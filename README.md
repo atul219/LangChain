@@ -17,6 +17,7 @@ LangChain/
 ├── Prompts/ # Prompt templates and examples
 ├── StructuredOutput/ # Output examples
 ├── TextSplitter/ # Text Splitter examples
+├── VectorStore/ # ChromaDb examples
 ├── .gitignore # Git ignore rules
 ├── LICENSE # MIT License
 ├── README.md # Project documentation
@@ -48,6 +49,9 @@ Contains Document Loader examples (text, pdf, csv, web) and engineering examples
 
 ## Text Splitter
 Contains Text Splitter examples (Length, Text-Structure, Document-Structure, Semantic Meaning) and engineering examples for effective interaction with language models.
+
+## Vector Store
+Contains Vector Store examples of Chroma db and engineering examples for effective interaction with language models.
 
 
 ## 👤 Author

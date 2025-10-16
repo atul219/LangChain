@@ -5,6 +5,7 @@ langchain-community
 # OpenAI Integration
 langchain-openai
 openai
+chromadb
 
 
 # Hugging Face
@@ -19,3 +20,5 @@ scikit-learn
 streamlit
 pydantic
 grandalf
+pypdf
+tiktoken
