@@ -15,6 +15,7 @@ LangChain/
 ├── DocumentLoader/ # Document Loader Examples
 ├── Models/ # Language model implementations and configurations
 ├── Prompts/ # Prompt templates and examples
+├── Retrievers/ # Prompt templates and examples
 ├── StructuredOutput/ # Output examples
 ├── TextSplitter/ # Text Splitter examples
 ├── VectorStore/ # ChromaDb examples
@@ -37,6 +38,9 @@ The Model Component is a crucial part of the LangChain framework, designed to fa
 
 ## Prompts
 Contains prompt templates and engineering examples for effective interaction with language models.
+
+## Retrievers
+Contains retrievers examples (document and searching based) for effective interaction with language models.
 
 ## Structured Output
 Contains Output examples (typed dict, pydantic, json) and engineering examples for effective interaction with language models.
